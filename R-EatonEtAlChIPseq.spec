@@ -10,9 +10,9 @@ License:          Artistic 2.0
 URL:              None
 Source0:          http://bioconductor.org/packages/data/experiment/src/contrib/EatonEtAlChIPseq_0.0.5.tar.gz
 BuildArch:        noarch
-Requires:         R-core
-Requires:         R-GenomicRanges R-ShortRead R-rtracklayer 
-BuildRequires:    R-devel Rmath-devel texlive-collection-latex R-GenomicRanges R-ShortRead R-rtracklayer
+Requires:         R-core R-GenomicRanges R-ShortRead R-rtracklayer
+BuildRequires:    R-devel Rmath-devel texlive-collection-latex
+BuildRequires:    R-GenomicRanges R-ShortRead R-rtracklayer
 
 %description
 ChIP-seq analysis subset from "Conserved nucleosome positioning defines
