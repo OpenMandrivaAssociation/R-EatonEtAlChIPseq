@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          0.0.5
-Release:          1
+Release:          2
 Summary:          ChIP-seq data of ORC-binding sites in Yeast excerpted from Eaton et al. 2010
 Group:            Sciences/Mathematics
 License:          Artistic 2.0
